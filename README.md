@@ -14,7 +14,7 @@ To get set up, run:
 
 ```console
 $ bundle install
-$ rails db:migrate db:seed
+$ rails db:migrate db:seed``
 $ npm install --prefix client
 ```
 
